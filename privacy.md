@@ -32,5 +32,13 @@ Knap Apps discloses PII only to those of its employees, contractors, and affilia
 ### Data Storage
 Knap Apps uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service. You understand that although you retain full rights to your data, it may be stored on third party storage and transmitted through third party networks.
 
+We will hold your information on our systems only for as long as required to provide you with the Services you have requested or to perform the purpose for which that information was collected.
+
+We will retain your email address on file should you ever ‘opt-out’ of receiving emails in order to ensure that we continue to honor and respect that opt-out request.
+
+In some circumstances, you can ask us to delete your data. However, we are not always obliged to erase personal data when asked to do so. If for any reason we believe that we have a legal reason to continue processing personal data that you ask us to erase, we will tell you what that reason is at the time we respond to your request. Where we aggregate or de-identify your information (so that it can no longer be associated with you) for research or statistical purposes we may use this data indefinitely without further notice to you.
+
+
+
 ### Privacy Policy Changes
 Although most changes are likely to be minor, Knap Apps may change its Privacy Policy from time to time at our sole discretion. Knap Apps encourages users to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
